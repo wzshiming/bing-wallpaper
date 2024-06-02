@@ -16,6 +16,8 @@ jobs:
       with:
         persist-credentials: false
         fetch-depth: 0
+    - name: Sync locales
+      run: ./locales.sh 
     - name: Fetch
       run: ./fetch.sh
     - name: Index
