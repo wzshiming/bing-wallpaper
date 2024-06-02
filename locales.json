@@ -1,0 +1,192 @@
+[
+  {
+    "market_code": "es-AR",
+    "country_name": "Argentina",
+    "language_name": "Spanish"
+  },
+  {
+    "market_code": "en-AU",
+    "country_name": "Australia",
+    "language_name": "English"
+  },
+  {
+    "market_code": "de-AT",
+    "country_name": "Austria",
+    "language_name": "German"
+  },
+  {
+    "market_code": "nl-BE",
+    "country_name": "Belgium",
+    "language_name": "Dutch"
+  },
+  {
+    "market_code": "fr-BE",
+    "country_name": "Belgium",
+    "language_name": "French"
+  },
+  {
+    "market_code": "pt-BR",
+    "country_name": "Brazil",
+    "language_name": "Portuguese"
+  },
+  {
+    "market_code": "en-CA",
+    "country_name": "Canada",
+    "language_name": "English"
+  },
+  {
+    "market_code": "fr-CA",
+    "country_name": "Canada",
+    "language_name": "French"
+  },
+  {
+    "market_code": "es-CL",
+    "country_name": "Chile",
+    "language_name": "Spanish"
+  },
+  {
+    "market_code": "da-DK",
+    "country_name": "Denmark",
+    "language_name": "Danish"
+  },
+  {
+    "market_code": "fi-FI",
+    "country_name": "Finland",
+    "language_name": "Finnish"
+  },
+  {
+    "market_code": "fr-FR",
+    "country_name": "France",
+    "language_name": "French"
+  },
+  {
+    "market_code": "de-DE",
+    "country_name": "Germany",
+    "language_name": "German"
+  },
+  {
+    "market_code": "zh-HK",
+    "country_name": "Hong Kong SAR",
+    "language_name": "Traditional Chinese"
+  },
+  {
+    "market_code": "en-IN",
+    "country_name": "India",
+    "language_name": "English"
+  },
+  {
+    "market_code": "en-ID",
+    "country_name": "Indonesia",
+    "language_name": "English"
+  },
+  {
+    "market_code": "it-IT",
+    "country_name": "Italy",
+    "language_name": "Italian"
+  },
+  {
+    "market_code": "ja-JP",
+    "country_name": "Japan",
+    "language_name": "Japanese"
+  },
+  {
+    "market_code": "ko-KR",
+    "country_name": "Korea",
+    "language_name": "Korean"
+  },
+  {
+    "market_code": "en-MY",
+    "country_name": "Malaysia",
+    "language_name": "English"
+  },
+  {
+    "market_code": "es-MX",
+    "country_name": "Mexico",
+    "language_name": "Spanish"
+  },
+  {
+    "market_code": "nl-NL",
+    "country_name": "Netherlands",
+    "language_name": "Dutch"
+  },
+  {
+    "market_code": "en-NZ",
+    "country_name": "New Zealand",
+    "language_name": "English"
+  },
+  {
+    "market_code": "no-NO",
+    "country_name": "Norway",
+    "language_name": "Norwegian"
+  },
+  {
+    "market_code": "zh-CN",
+    "country_name": "People's Republic of China",
+    "language_name": "Chinese"
+  },
+  {
+    "market_code": "pl-PL",
+    "country_name": "Poland",
+    "language_name": "Polish"
+  },
+  {
+    "market_code": "en-PH",
+    "country_name": "Republic of the Philippines",
+    "language_name": "English"
+  },
+  {
+    "market_code": "ru-RU",
+    "country_name": "Russia",
+    "language_name": "Russian"
+  },
+  {
+    "market_code": "en-ZA",
+    "country_name": "South Africa",
+    "language_name": "English"
+  },
+  {
+    "market_code": "es-ES",
+    "country_name": "Spain",
+    "language_name": "Spanish"
+  },
+  {
+    "market_code": "sv-SE",
+    "country_name": "Sweden",
+    "language_name": "Swedish"
+  },
+  {
+    "market_code": "fr-CH",
+    "country_name": "Switzerland",
+    "language_name": "French"
+  },
+  {
+    "market_code": "de-CH",
+    "country_name": "Switzerland",
+    "language_name": "German"
+  },
+  {
+    "market_code": "zh-TW",
+    "country_name": "Taiwan",
+    "language_name": "Traditional Chinese"
+  },
+  {
+    "market_code": "tr-TR",
+    "country_name": "Türkiye",
+    "language_name": "Turkish"
+  },
+  {
+    "market_code": "en-GB",
+    "country_name": "United Kingdom",
+    "language_name": "English"
+  },
+  {
+    "market_code": "en-US",
+    "country_name": "United States",
+    "language_name": "English"
+  },
+  {
+    "market_code": "es-US",
+    "country_name": "United States",
+    "language_name": "Spanish"
+  }
+]

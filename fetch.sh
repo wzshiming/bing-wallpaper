@@ -1,20 +1,5 @@
 #!/usr/bin/env bash
 
-regions=(
-  de-DE
-  en-CA
-  en-GB
-  en-IN
-  en-US
-  es-ES
-  fr-CA
-  fr-FR
-  it-IT
-  ja-JP
-  pt-BR
-  zh-CN
-)
-
 base="https://global.bing.com"
 
 function get_today_image() {
@@ -41,6 +26,8 @@ function get_today_image() {
   done
 }
 
-for region in "${regions[@]}"; do
+regions="$(cat ./locales.json | jq -r '.[].market_code')"
+
+for region in ${regions}; do
   get_today_image "${region}"
 done
