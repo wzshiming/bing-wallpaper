@@ -72,6 +72,10 @@
 <img src="https://global.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
 
-<a href="https://global.bing.com/th?id=OHR.MayotteCoral_EN-US8740739098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
-<img src="https://global.bing.com/th?id=OHR.MayotteCoral_EN-US8740739098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+<a href="https://global.bing.com/th?id=OHR.MayotteCoral_EN-US4102346691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.MayotteCoral_EN-US4102346691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+</a>
+
+<a href="https://global.bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
