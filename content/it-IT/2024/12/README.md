@@ -15,3 +15,7 @@
 <a href="https://global.bing.com/th?id=OHR.RhinosKenya_IT-IT3428289115_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
 <img src="https://global.bing.com/th?id=OHR.RhinosKenya_IT-IT3428289115_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
+
+<a href="https://global.bing.com/th?id=OHR.MonoTufa_IT-IT7280531919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.MonoTufa_IT-IT7280531919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+</a>
