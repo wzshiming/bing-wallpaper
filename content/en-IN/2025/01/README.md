@@ -23,3 +23,7 @@
 <a href="https://global.bing.com/th?id=OHR.RavennaBasilica_EN-IN9380198974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
 <img src="https://global.bing.com/th?id=OHR.RavennaBasilica_EN-IN9380198974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
+
+<a href="https://global.bing.com/th?id=OHR.BouldersNZ_EN-IN0206909278_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.BouldersNZ_EN-IN0206909278_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+</a>
