@@ -24,6 +24,10 @@
 <img src="https://global.bing.com/th?id=OHR.RavennaBasilica_IT-IT9888465442_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
 
-<a href="https://global.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT0168095926_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
-<img src="https://global.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT0168095926_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+<a href="https://global.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT7900673609_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT7900673609_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+</a>
+
+<a href="https://global.bing.com/th?id=OHR.GreatWallStairs_IT-IT6218183610_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.GreatWallStairs_IT-IT6218183610_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
