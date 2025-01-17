@@ -60,6 +60,10 @@
 <img src="https://global.bing.com/th?id=OHR.MuseumCourt_IT-IT0217909528_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
 
-<a href="https://global.bing.com/th?id=OHR.PinnaclesPeaks_IT-IT7170476013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
-<img src="https://global.bing.com/th?id=OHR.PinnaclesPeaks_IT-IT7170476013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+<a href="https://global.bing.com/th?id=OHR.PinnaclesPeaks_IT-IT6858792304_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.PinnaclesPeaks_IT-IT6858792304_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+</a>
+
+<a href="https://global.bing.com/th?id=OHR.NapoliPizza_IT-IT7432865458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.NapoliPizza_IT-IT7432865458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
