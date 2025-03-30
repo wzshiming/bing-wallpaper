@@ -116,6 +116,8 @@
 <img src="https://global.bing.com/th?id=OHR.NestingMonarch_EN-GB8009331215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
 
-<a href="https://global.bing.com/th?id=OHR.CarrizoBloom_EN-GB8154155837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
-<img src="https://global.bing.com/th?id=OHR.CarrizoBloom_EN-GB8154155837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+<a href="https://global.bing.com/th?id=OHR.ElephantGrass_EN-GB8382422599_UHD.jpg
+/th?id=OHR.CarrizoBloom_EN-GB8154155837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.ElephantGrass_EN-GB8382422599_UHD.jpg
+/th?id=OHR.CarrizoBloom_EN-GB8154155837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
