@@ -107,3 +107,7 @@
 <a href="https://global.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
 <img src="https://global.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
+
+<a href="https://global.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+</a>
