@@ -96,6 +96,10 @@
 <img src="https://global.bing.com/th?id=OHR.BearLodge_DE-DE0621021956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
 
-<a href="https://global.bing.com/th?id=OHR.FortChittorgarh_DE-DE0795662857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
-<img src="https://global.bing.com/th?id=OHR.FortChittorgarh_DE-DE0795662857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+<a href="https://global.bing.com/th?id=OHR.FortChittorgarh_DE-DE3932715293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.FortChittorgarh_DE-DE3932715293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+</a>
+
+<a href="https://global.bing.com/th?id=OHR.AutumnChipmunk_DE-DE0842640974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.AutumnChipmunk_DE-DE0842640974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
