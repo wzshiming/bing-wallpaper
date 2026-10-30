@@ -115,3 +115,7 @@
 <a href="https://global.bing.com/th?id=OHR.AveburyStones_FR-FR0792308002_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
 <img src="https://global.bing.com/th?id=OHR.AveburyStones_FR-FR0792308002_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
+
+<a href="https://global.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+</a>
