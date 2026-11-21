@@ -79,3 +79,7 @@
 <a href="https://global.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
 <img src="https://global.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
 </a>
+
+<a href="https://global.bing.com/th?id=OHR.RedNice_ES-ES5584986553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4">
+<img src="https://global.bing.com/th?id=OHR.RedNice_ES-ES5584986553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" align="left" loading="lazy">
+</a>
